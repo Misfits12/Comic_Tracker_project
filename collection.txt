@@ -1,0 +1,49 @@
+[2026-04-03 20:08:33] Collector: Robert
+Title: flash
+Issue: 22
+Publisher: Dc
+Condition: Good
+Estimated Value: $10.00
+----------------------
+[2026-04-03 20:08:47] Collector: Robert
+Title: flash
+Issue: 23
+Publisher: good
+Condition: mint
+Estimated Value: $20.00
+----------------------
+[2026-04-03 20:48:07] Collector: Robert
+Title: flash
+Issue: 51
+Publisher: dc
+Condition: good
+Estimated Value: $10.00
+----------------------
+[2026-04-04 12:18:56] Collector: Robert
+Title: batman
+Issue: 25
+Publisher: Dc
+Condition: Good
+Estimated Value: $10.00
+----------------------
+[2026-04-04 12:25:29] Collector: Robert
+Title: batman
+Issue: 57
+Publisher: DC
+Condition: Good
+Estimated Value: $10.00
+----------------------
+[2026-04-04 12:28:22] Collector: Robert
+Title: flash
+Issue: 69
+Publisher: Dc
+Condition: Mint
+Estimated Value: $20.00
+----------------------
+[2026-04-04 12:33:56] Collector: Robert
+Title: punisher
+Issue: 4
+Publisher: Marvel
+Condition: Good
+Estimated Value: $10.00
+----------------------
